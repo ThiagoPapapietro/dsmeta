@@ -10,6 +10,12 @@ function Header() {
                 <h1>DSMeta</h1>
                 <p>
                     Desenvolvido por
+                    <a href="https://github.com/ThiagoPapapietro"> Thiago Papapietro</a>
+                </p>
+                <br></br>
+                <b>Semana Spring React</b>
+                <p>
+                    Evento promovido pela escola DevSuperior:
                     <a href="https://www.instagram.com/devsuperior.ig"> @devsuperior.ig</a>
                 </p>
             </div>
